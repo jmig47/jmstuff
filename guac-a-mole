@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Guac-A-Mole</title>
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <h1> Wyntroduction </h1>
+  <h3>Guac-A-Mole: <span class="score"> 0 </span></h3>
+  <button onClick="startGame()">Start</button>
+  
+  <main>
+    <div class="guac-bowl">
+      <img src="https://minio.dokku-hosted.thruhere.net/wyntroduction/bowl.png" alt="bowl" class="bowl">
+      <img src="https://minio.dokku-hosted.thruhere.net/wyntroduction/avocado.png" alt="avocado" class="avocado">
+    </div>
+
+    <div class="guac-bowl">
+      <img src="https://minio.dokku-hosted.thruhere.net/wyntroduction/bowl.png" alt="bowl" class="bowl">
+      <img src="https://minio.dokku-hosted.thruhere.net/wyntroduction/avocado.png" alt="avocado" class="avocado">
+    </div>
+
+    <div class="guac-bowl">
+      <img src="https://minio.dokku-hosted.thruhere.net/wyntroduction/bowl.png" alt="bowl" class="bowl">
+      <img src="https://minio.dokku-hosted.thruhere.net/wyntroduction/avocado.png" alt="avocado" class="avocado">
+    </div>
+
+    <div class="guac-bowl">
+      <img src="https://minio.dokku-hosted.thruhere.net/wyntroduction/bowl.png" alt="bowl" class="bowl">
+      <img src="https://minio.dokku-hosted.thruhere.net/wyntroduction/avocado.png" alt="avocado" class="avocado">
+    </div>
+
+    <div class="guac-bowl">
+      <img src="https://minio.dokku-hosted.thruhere.net/wyntroduction/bowl.png" alt="bowl" class="bowl">
+      <img src="https://minio.dokku-hosted.thruhere.net/wyntroduction/avocado.png" alt="avocado" class="avocado">
+    </div>
+
+    <div class="guac-bowl">
+      <img src="https://minio.dokku-hosted.thruhere.net/wyntroduction/bowl.png" alt="bowl" class="bowl">
+      <img src="https://minio.dokku-hosted.thruhere.net/wyntroduction/avocado.png" alt="avocado" class="avocado">
+    </div>
+  </main>
+
+  <script src="index.js"></script>
+</body>
+</html>
